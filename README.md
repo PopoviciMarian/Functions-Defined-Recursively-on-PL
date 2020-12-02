@@ -19,4 +19,4 @@ The following recursive function was used to calculate the abstract syntax tree 
 
 # Example
   For   ```((r'^p1)v(q3^nr2))``` the result will be :
-  ![alt text](https://scontent.fclj1-1.fna.fbcdn.net/v/t1.15752-9/121775406_345180289925481_8207310638628670752_n.png?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=ZjGEoMg5Pn4AX8R8kB6&_nc_ht=scontent.fclj1-1.fna&oh=da2b51859f74079bcc241a9106b391ac&oe=5FB02145)
+  ![alt text](https://raw.githubusercontent.com/PopoviciMarian/Functions-Defined-Recursively-on-PL/main/doc/121775406_345180289925481_8207310638628670752_n.png)
